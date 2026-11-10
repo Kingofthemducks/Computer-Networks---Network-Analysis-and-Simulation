@@ -44,7 +44,7 @@ This process establishes a reliable connection before normal data transmission b
 
 **Screenshot – TCP SYN, SYN-ACK and ACK packets**
 
-<img src="./screenshots/SYN-ACK%20Flag.png" width="300"> 
+<img src="./screenshots/SYN-ACK%20Flag.png" width="800"> 
 
 `![TCP Three-Way Handshake](./screenshots/tcp-handshake.png)`
 
