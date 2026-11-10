@@ -32,8 +32,6 @@ The six main TCP flags examined in this project are:
 
 ### TCP Three-Way Handshake
 
-<img src="./screenshots/Meditaken%20LockScreen%20on%20S22%20ultra.jpg" width="300"> <img src="./screenshots/lockscreen%20of%20meditaken%20with%20message.png" width="300">
-
 A TCP connection is normally established through a three-step handshake:
 
 1. **SYN:** The client sends a connection request to the server.
@@ -45,8 +43,6 @@ This process establishes a reliable connection before normal data transmission b
 **Screenshot – TCP SYN, SYN-ACK and ACK packets**
 
 <img src="./screenshots/SYN-ACK%20Flag.png" width="800"> 
-
-`![TCP Three-Way Handshake](./screenshots/tcp-handshake.png)`
 
 ### TCP Connection Termination
 
@@ -61,7 +57,7 @@ This allows both sides to independently close their connection and finish transm
 
 **Screenshot – TCP FIN and ACK packets**
 
-`![TCP Connection Termination](./screenshots/tcp-termination.png)`
+<img src="./screenshots/FIN%20Flag.png" width="800"> 
 
 ---
 
@@ -90,8 +86,9 @@ The successful reception of an Echo Reply indicates that the destination is reac
 
 **Screenshot – ICMP Echo Request and Echo Reply in Wireshark**
 
-`![ICMP Ping Analysis](./screenshots/icmp-ping.png)`
+<img src="./screenshots/ICMP%%20Echo.png" width="800"> <img src="./screenshots/%20Request%20Type%200.png" width="800"> 
 
+<img src="./screenshots/Echo%20Request%20Type%2011.png" width="800"> <img src="./screenshots/Echo%20Request%20Type%208.png" width="800"> 
 ---
 
 ## 3. ICMP Traceroute
