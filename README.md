@@ -86,9 +86,9 @@ The successful reception of an Echo Reply indicates that the destination is reac
 
 **Screenshot – ICMP Echo Request and Echo Reply in Wireshark**
 
-<img src="./screenshots/ICMP%%20Echo.png" width="800"> 
+<img src="./screenshots/ICMP%20Echo.png" width="800"> 
 
-<img src="./screenshots/%20Request%20Type%200.png" width="800"> 
+<img src="./screenshots/%20Request%20Type%20.png" width="800"> 
 
 <img src="./screenshots/Echo%20Request%20Type%2011.png" width="800"> 
 
