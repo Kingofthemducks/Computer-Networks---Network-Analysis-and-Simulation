@@ -371,7 +371,7 @@ A successful test with four replies and no packet loss indicated that the device
 
 **Screenshot – Router configuration and RIP**
 
-<img src="./screenshots/Router0%20config.png" width="300"> <img src="./screenshots/Router1%20config.png" width="300"> <img src="./screenshots/Router2%20config.png" width="300"> 
+<img src="./screenshots/Router0%20config.png" width="200"> <img src="./screenshots/Router1%20config.png" width="200"> <img src="./screenshots/Router2%20config.png" width="200"> 
 
 **Screenshot – Successful ping between different networks**
 
