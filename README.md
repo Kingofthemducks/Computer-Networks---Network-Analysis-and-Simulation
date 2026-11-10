@@ -90,9 +90,6 @@ The successful reception of an Echo Reply indicates that the destination is reac
 
 <img src="./screenshots/Echo%20Request%20Type%200.png" width="800"> 
 
-<img src="./screenshots/Echo%20Request%20Type%2011.png" width="800"> 
-
-<img src="./screenshots/Echo%20Request%20Type%208.png" width="800"> 
 ---
 
 ## 3. ICMP Traceroute
@@ -123,7 +120,9 @@ By examining these packets, it is possible to identify individual network hops a
 
 **Screenshot – Traceroute packet analysis**
 
-`![ICMP Traceroute](./screenshots/icmp-traceroute.png)`
+<img src="./screenshots/Echo%20Request%20Type%2011.png" width="800"> 
+
+<img src="./screenshots/Echo%20Request%20Type%208.png" width="800"> 
 
 ---
 
@@ -150,7 +149,7 @@ Shorter intervals are useful for identifying sudden traffic spikes and fluctuati
 
 **Screenshot – Wireshark Packets per Second graph**
 
-`![Packets per Second](./screenshots/packets-per-second.png)`
+<img src="./screenshots/All%20Packets%20per%20sec.png" width="800"> 
 
 ---
 
@@ -203,11 +202,11 @@ The basic communication process is:
 
 **Screenshot – HTTP GET request in Wireshark**
 
-`![HTTP Request](./screenshots/http-request.png)`
+<img src="./screenshots/HTTP%20Request%20Details.png" width="800"> 
 
 **Screenshot – HTTP response and status code**
 
-`![HTTP Response](./screenshots/http-response.png)`
+<img src="./screenshots/HTTP%20Response%20details.png" width="800"> 
 
 ---
 
@@ -260,7 +259,7 @@ Different graph intervals provide different levels of detail.
 
 **Screenshot – Packet size and network traffic statistics**
 
-`![Network Statistics](./screenshots/network-statistics.png)`
+<img src="./screenshots/Statistics%20Feature.png" width="800"> 
 
 ---
 
@@ -321,7 +320,7 @@ Combining conditions with logical operators makes it possible to investigate spe
 
 **Screenshot – Advanced Wireshark display filters**
 
-`![Wireshark Display Filters](./screenshots/wireshark-filters.png)`
+<img src="./screenshots/Advanced Filter%20tcp%20port%20==%2080%20II%20top%20port%20==%20443.png" width="800"> 
 
 ---
 
@@ -368,15 +367,15 @@ A successful test with four replies and no packet loss indicated that the device
 
 **Screenshot – Three-router network topology**
 
-`![Three Router Network](./screenshots/three-router-network.png)`
+<img src="./screenshots/Small Homogenous Network.png" width="800"> 
 
 **Screenshot – Router configuration and RIP**
 
-`![RIP Configuration](./screenshots/rip-configuration.png)`
+<img src="./screenshots/Router0%20config.png" width="300"> <img src="./screenshots/Router1%20config.png" width="300"> <img src="./screenshots/Router2%20config.png" width="300"> 
 
 **Screenshot – Successful ping between different networks**
 
-`![Network Connectivity Test](./screenshots/network-ping-test.png)`
+<img src="./screenshots/PC0%20Pings.png" width="800"> 
 
 ---
 
@@ -404,11 +403,11 @@ This demonstrated how firewall rules can restrict certain types of network traff
 
 **Screenshot – Firewall configuration**
 
-`![Firewall Configuration](./screenshots/firewall-configuration.png)`
+<img src="./screenshots/Firewall%20network.png" width="800"> 
 
 **Screenshot – Ping tests with firewall enabled**
 
-`![Firewall Testing](./screenshots/firewall-testing.png)`
+<img src="./screenshots/PC3%20Pings.png" width="800">
 
 ---
 
@@ -460,11 +459,11 @@ Additional security can be achieved through network segmentation, VLANs, and app
 
 **Screenshot – Hub network simulation**
 
-`![Hub Network](./screenshots/hub-network.png)`
+<img src="./screenshots/PC3%20Desktop%20ping.png" width="800">
 
 **Screenshot – Switch network simulation**
 
-`![Switch Network](./screenshots/switch-network.png)`
+<img src="./screenshots/PC4%20Ping%20Cisco.png" width="800">
 
 ---
 
