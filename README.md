@@ -32,6 +32,8 @@ The six main TCP flags examined in this project are:
 
 ### TCP Three-Way Handshake
 
+<img src="./screenshots/Meditaken%20LockScreen%20on%20S22%20ultra.jpg" width="300"> <img src="./screenshots/lockscreen%20of%20meditaken%20with%20message.png" width="300">
+
 A TCP connection is normally established through a three-step handshake:
 
 1. **SYN:** The client sends a connection request to the server.
@@ -42,7 +44,7 @@ This process establishes a reliable connection before normal data transmission b
 
 **Screenshot – TCP SYN, SYN-ACK and ACK packets**
 
-
+<img src="./screenshots/SYN-ACK%20Flag.png" width="300"> 
 
 `![TCP Three-Way Handshake](./screenshots/tcp-handshake.png)`
 
